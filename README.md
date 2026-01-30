@@ -1,5 +1,7 @@
 # VW Cleaning Robot
 
+[![Build and Test](https://github.com/springerd/vw-cleaning-robot-challenge/actions/workflows/build.yml/badge.svg)](https://github.com/springerd/vw-cleaning-robot-challenge/actions/workflows/build.yml)
+
 **Author:** Javier Teodoro Mediano Serrano                                                                                                                                                                                                                                                                                  
 **Date:** January 2026
 
@@ -7,7 +9,7 @@ Cleaning robot that navigates in a rectangular space following movement instruct
 
 ## Requirements
 
-- Java 25
+- Java 21+
 - Maven 3.9+
 
 ## Build
@@ -15,7 +17,7 @@ Cleaning robot that navigates in a rectangular space following movement instruct
 ```bash
 mvn clean package
 ```
-e
+
 ## Execution
 
 ```bash
