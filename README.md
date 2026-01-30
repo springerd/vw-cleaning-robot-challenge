@@ -184,7 +184,7 @@ See [ADR.md](ADR.md) for detailed architecture decisions.
 mvn test
 ```
 
-**Coverage**: 59 tests focusing on:
+**Coverage**: 59 test methods, 117 test executions
 - Parameterized tests to reduce duplication
 - Domain tests without external dependencies
 - Integration tests for Main and adapters
